@@ -1,0 +1,36 @@
+@import "../../../scss/index.scss";
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+
+.menu-top-web {
+  font-family: 'JetBrains Mono', monospace;
+  position: sticky;
+  top: 0;
+  background-color: $background-dark-web;
+  border: 0;
+  display: flex;
+  align-items: center;
+  // border-bottom: 3px solid $primary-color;
+
+  li {
+    border: 0 !important;
+
+    a {
+      font-size: 18px;
+      color: #fff !important;
+      font-weight: bold;
+
+      &:hover {
+        color: $primary-color !important;
+      }
+    }
+  }
+
+  &__logo {
+    padding: 5px;
+
+    img {
+      width: 200px;
+    }
+  }
+}
