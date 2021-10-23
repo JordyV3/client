@@ -24,9 +24,8 @@ _Este proyecto tienia como objetivo desarrollar una pagina personal y blog de ti
 - Creamos un sistema de Auth protegido con JWT y tendremos el AccessToken para permitir acceso y RefreshToken para recuperar sesiones.
 - Creamos un panel de Administrador para que nuestros usuarios con privilegios puedan gestionar la web.
 - Construiremos un Menú completamente dinámico gestionado desde el panel de administrador.
-- Crearemos una Home Page llamativa.
+- Creamos una Home Page llamativa.
 - Programaremos un Sistema de Newsletter 100% funcional desde cero.
-- Crearemos una sección para subir cursos conectada a la API de Afiliados Udemy.
 - Creamos un Sistema de Blog, con paginación y creación de URL dinámicas todo gestionado desde el panel de Administrador.
 - Gestionaremos el SEO On Page para mejorar nuestra visibilidad en Google.
 - Desplegaremos nuestra aplicación en varios servidores en la nube.
