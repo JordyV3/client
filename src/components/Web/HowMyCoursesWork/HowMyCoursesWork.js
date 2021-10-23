@@ -26,58 +26,58 @@ export default function HowMyCoursesWork() {
             <CardInfo
               // icon="icon-javascrip"
               title="JavaScript"
-              description="JavaScript para la interaccion con las paginas"
+              description="JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript."
             />
           </Col>
           <Col md={8}>
             <CardInfo
               // icon="key"
               title="ReactJs"
-              description="Aplicaciones SPA y PWA con ReactJs"
+              description="React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario."
             />
           </Col>
           <Col md={8}>
             <CardInfo
               // icon="message"
               title="Git"
-              description="Gestor de versiones para mi desarrollo"
+              description="Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad."
             />
           </Col>
           <Col md={8}>
             <CardInfo
               // icon="message"
-              title="Git"
-              description="Gestor de versiones para mi desarrollo"
+              title="Nodejs"
+              description="Lenguaje del servidor basado en el lenguaje de programación JavaScript"
             />
           </Col>
           <Col md={8}>
             <CardInfo
               // icon="message"
-              title="Git"
-              description="Gestor de versiones para mi desarrollo"
+              title="MongoDB"
+              description="es un sistema de base de datos NoSQL, orientado a documentos y de código abierto."
             />
           </Col>
         </Row>
         <Row className="row-cards">
           <Col md={8}>
             <CardInfo
-              icon="user"
-              title="Bases de datos"
-              description="Base de datos Mysql, Oracle, MongoDb, SQLserver"
+              // icon="user"
+              title="Heroku"
+              description="Una plataforma como servicio de computación en la Nube que soporta distintos lenguajes de programación."
             />
           </Col>
           <Col md={8}>
             <CardInfo
-              icon="dollar"
-              title="Nodejs"
-              description="Nodejs para el backend"
+              // icon="dollar"
+              title="Cloud"
+              description="definiciones, servicios, despliegue, su seguridad y privacidad. Cloud es en realidad sólo una metáfora de Internet."
             />
           </Col>
           <Col md={8}>
             <CardInfo
-              icon="check-circle"
-              title="Certificador de finalización"
-              description="hajsha"
+              // icon="check-circle"
+              title="Redux"
+              description="Redux es una librería JavaScript de código abierto para el manejo del estado de las aplicaciones."
             />
           </Col>
         </Row>
