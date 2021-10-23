@@ -6,8 +6,6 @@ _Jordy Alexander Vega Aldana 1190-18-9769. Creacion de una web personal con Mong
 
 ## Comenzando 🚀
 
-_En este proyecto se aprender a crear una aplicación web, que será una web personal con panel de Administrador protegido por un login con **JWT**, todo paso a paso usando el **MERN Stack** que está compuesto por **MongoDB, Express JS, React JS y Node JS**._
-
 _Se creo la aplicación desde cero sin usar nada prefabricado, **aprendiendo base de datos no relacional  "MongoDB"**, en el **Backend se creo un API REST** con **Node JS** y **Express JS** y en el **Frontend** use **React JS con Hooks** y en la **parte del CSS use SASS**._
 
 _Despliegue de la aplicacion en un servicio en la nube **desplegar nuestra aplicación en la nube**._
